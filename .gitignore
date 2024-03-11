@@ -1,0 +1,10 @@
+# latex
+*.aux
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+*.xdv
+**/Library/*
+**/Temp/*
+**/01-starter-code/**
